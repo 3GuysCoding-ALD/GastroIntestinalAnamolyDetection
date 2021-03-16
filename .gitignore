@@ -1,5 +1,6 @@
 /Densenet201/model_saves/*
 /InceptionV3/model_saves/*
+/StackedModel/model_saves/*
 /kvasir-dataset-v2/Extracted/*
 /kvasir-dataset-v2/kvasir-dataset-v2/*
 /kvasir-dataset-v2/test/*
