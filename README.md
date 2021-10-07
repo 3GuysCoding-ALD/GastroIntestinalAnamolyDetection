@@ -2,7 +2,7 @@
 
 Below is a summary of the results we obtained for the task please refer to the [final report](FinalReport.pdf) 
 
-###A look at the dataset
+### A look at the dataset
 
 | | |
 | ----------- | ----------- |
@@ -10,7 +10,7 @@ Below is a summary of the results we obtained for the task please refer to the [
 | ![pred_3](readme_files/dataset3.PNG)  | ![pred_4](readme_files/dataset4.PNG)   |
 
 
-###Models and prediction results obtained.
+### Models and prediction results obtained.
 We mainly used 3 models for experimentation.
 
 * VGG19
@@ -23,7 +23,7 @@ We mainly used 3 models for experimentation.
 | ![pred_3](readme_files/model3.PNG)  |
 
 
-###Result summary
+### Result summary
 ![pred_4](readme_files/model4.PNG) 
 
 
